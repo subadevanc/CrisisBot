@@ -114,9 +114,8 @@ CrisisBot/
 ## 📌 To-Do (Ideas to Improve)
 
 - [ ] Add chatbot memory (store conversation)# 🛡️ CrisisBot – Offline AI Agent for Disaster Zones
-```
 
----
+
 
 ## 🙋‍♂️ Made By
 

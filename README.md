@@ -24,7 +24,7 @@ Install dependencies:
 ```bash
 pip install -r req.txt
 ````
-#🔧 How to Run
+## 🔧 How to Run
 ```bash
 git clone https://github.com/subadevanc/CrisisBot.git
 cd CrisisBot

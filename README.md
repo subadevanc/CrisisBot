@@ -113,12 +113,39 @@ CrisisBot/
 
 ## 📌 To-Do (Ideas to Improve)
 
+- [ ] Add chatbot memory (store conversation)# 🛡️ CrisisBot – Offline AI Agent for Disaster Zones
+```
+
+---
+
+## 🙋‍♂️ Made By
+
+**Subadevan C**  
+🎓 2nd Year CSE | Jerusalem College of Engineering  
+🎯 Cybersecurity Enthusiast | Hackathon Competitor | CTF Player  
+🔗 GitHub: [@subadevanc](https://github.com/subadevanc)
+
+---
+
+## 📌 To-Do (Ideas to Improve)
+
 - [ ] Add chatbot memory (store conversation)
 - [ ] Add SQLite database for logging
 - [ ] Expand AI logic (e.g., detect "injury", "fire", "lost", etc.)
 - [ ] Voice input (speech-to-text)
 - [ ] Package as Android APK using Kivy or BeeWare
 
+---
+
+## 🆘 License
+
+MIT License – use it, fork it, improve it! Stay safe out there 🌍
+
+- [ ] Add SQLite database for logging
+- [ ] Expand AI logic (e.g., detect "injury", "fire", "lost", etc.)
+- [ ] Voice input (speech-to-text)
+- [ ] Package as Android APK using Kivy or BeeWare
+- [ ] Integrate LoRa Modules for long-range offline communication
 ---
 
 ## 🆘 License

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CrisisBot</title>
+</head>
+<body>
+  <h1>CrisisBot - Offline Emergency Assistant</h1>
+
+  <div id="chat">
+    {% for sender, message in chat_history %}
+      <p><strong>{{ sender }}:</strong> {{ message }}</p>
+    {% endfor %}
+  </div>
+
+  <form method="POST" action="/">
+    <input type="text" name="message" placeholder="Type your message" required>
+    <button type="submit">Send</button>
+  </form>
+</body>
+</html>

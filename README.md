@@ -22,4 +22,4 @@ CrisisBot is a lightweight Python chatbot designed to assist people in disaster 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt

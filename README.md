@@ -1,4 +1,4 @@
-# 🛡️ CrisisBot – Offline AI Agent for Disaster Zones
+# 🛡️ CrisisBot – Offline Simple Agent for Disaster Zones Prototype
 
 > Helping people in disaster zones when the internet fails. Runs fully offline and works even on mobile via local Wi-Fi.
 
@@ -26,7 +26,7 @@ Whether it’s asking for **water**, **location help**, or simply sending distre
 
 - **Python 3**
 - **Flask** – lightweight web server
-- **HTML/CSS** – minimal front-end
+- **HTML** – minimal front-end
 - **pyttsx3** – offline TTS (Text to Speech)
 
 ---
@@ -146,7 +146,3 @@ MIT License – use it, fork it, improve it! Stay safe out there 🌍
 - [ ] Package as Android APK using Kivy or BeeWare
 - [ ] Integrate LoRa Modules for long-range offline communication
 ---
-
-## 🆘 License
-
-MIT License – use it, fork it, improve it! Stay safe out there 🌍

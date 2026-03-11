@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+</head>
+<body>
+
+<h1>HTML Test Page</h1>
+<p>If you see this, the page is working.</p>
+
+<form method="GET" action="">
+    <label>Input Test:</label>
+    <input type="text" name="test" placeholder="Enter something">
+    <button type="submit">Submit</button>
+</form>
+
+<script>
+    console.log("Test page loaded");
+
+    // Reflect parameter for quick testing
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("test")) {
+        document.body.innerHTML += "<p>Input: " + params.get("test") + "</p>";
+    }
+</script>
+
+</body>
+</html>
